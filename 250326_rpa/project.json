@@ -1,0 +1,89 @@
+{
+  "name": "250326_rpa",
+  "projectId": "57ef24cb-0208-4897-a52d-87b035066fe2",
+  "description": "빈 프로세스",
+  "main": "과제.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.25.1-preview]",
+    "UiPath.System.Activities": "[25.2.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.161.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "576e8d50-0793-41b5-bcc2-8828fe0e6cc2",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Ex02.xaml",
+      "uniqueId": "edbd6805-a598-4845-a71e-0904795782c9",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Ex03.xaml",
+      "uniqueId": "cc7b735b-80fe-4cb7-86c5-092eaa386dd6",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Ex04.xaml",
+      "uniqueId": "81c95459-cd37-4e1b-ab8c-99ff13671ce7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Ex05.xaml",
+      "uniqueId": "dd5a5402-051e-4c56-8d06-aaa328b85700",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "과제.xaml",
+      "uniqueId": "de56f67e-a07a-41d3-8136-ac6ca1ef557a",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
